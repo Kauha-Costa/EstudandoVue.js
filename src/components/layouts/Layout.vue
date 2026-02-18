@@ -4,7 +4,7 @@
 
 <template>
   <header>
-    <h1 class="text-gradient">SMOLGRAM</h1>
+    <h1 class="text-gradient">PushForge</h1>
   </header>
   <main>
     <slot/>

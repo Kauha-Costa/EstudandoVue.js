@@ -60,19 +60,6 @@ Este projeto foi desenvolvido para:
 
 ---
 
-## 🚀 Melhorias Futuras
-
-- Sistema de progresso do usuário
-- Controle de carga utilizada
-- Persistência de dados (LocalStorage ou banco de dados)
-- Sistema de login
-- Histórico de treinos
-- Interface responsiva
-- Dark mode
-- Integração com API
-
----
-
 # 🇺🇸 English
 
 ## 📌 About the Project
